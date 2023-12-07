@@ -1,3 +1,5 @@
+"""Author: Eng.Rawan Khaled Mohamed"""
+
 import pickle
 import nltk
 import speech_recognition as sr
